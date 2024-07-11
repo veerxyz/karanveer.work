@@ -139,3 +139,36 @@ border: none;
     color:#6e6e6e;
     font-weight: 400;
 }
+#page2>#text1{
+    position: absolute;
+    top: 30%;
+    left: 10%;
+}
+#page2>#text1>h1{
+    font-size: 60px;
+    line-height: 1.5;
+}
+#page2>#text2{
+    position: absolute;
+    top: 55%;
+    right: 10%;
+    text-align: end;
+}
+#page2>#text2>p{
+    color: #6e6e6e;
+    font-weight: 400;
+}
+#page>#text3{
+    position: absolute;
+    top: 40%;
+    right: 10%;
+    text-align: end;
+}
+#page>#text3>h3{
+    color: #6e6e6e;
+    font-weight: 400;
+}
+#page3>#text3>h1{
+font-size:70px;
+}
+

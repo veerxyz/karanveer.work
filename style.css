@@ -15,7 +15,7 @@ html, body{
     position: relative;
     height: 100vh;
     width: 100vw;
-    background-color: #000;
+    background-color: #f1f1f1;
 }
 #page1{
     height: 100vh;
@@ -39,6 +39,7 @@ canvas{
     max-height: 100vh;
 }
 #loop{
+    display: flex;
     position: absolute;
     top: 30%;
     height: 25%;
@@ -52,7 +53,7 @@ canvas{
 #loop>h1{
 font-weight: 400;
 animation-name: anim;
-animation-duration: 25s;
+animation-duration: 10s;
 animation-timing-function: linear;
 animation-iteration-count: infinite;
 }

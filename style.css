@@ -93,3 +93,17 @@ background-color: #1a1a1a;
 color: #fff;
 border: none;
 }
+#page>h3{
+    position: absolute;
+    top:55%;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    color: #6e6e6e;
+    left: 5%;
+}
+#page>h4{
+    position:absolute;
+    top: 60%;
+    left: 20%;
+    font-family:Arial, Helvetica, sans-serif;
+}

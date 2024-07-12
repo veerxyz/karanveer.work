@@ -175,7 +175,7 @@ border: none;
 
 #page3>#text3{
     position: absolute;
-    top: 40%;
+    top: 25%;
     right: 10%;
     text-align: end;
 }
@@ -184,6 +184,20 @@ border: none;
     font-weight: 400;
 }
 #page3>#text3>h1{
+font-size:70px;
+}
+
+#page3>#left-text3{
+    position: absolute;
+    top: 75%;
+    left: 10%;
+    text-align: start;
+}
+#page3>#left-text3>h3{
+    color: #6e6e6e;
+    font-weight: 400;
+}
+#page3>#left-text3>h1{
 font-size:70px;
 }
 

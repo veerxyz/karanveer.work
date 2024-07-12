@@ -338,18 +338,12 @@ function files(index){
     ./male0291.png
     ./male0292.png
     ./male0293.png
-    ./male0294.png
-    ./male0295.png
-    ./male0296.png
-    ./male0297.png
-    ./male0298.png
-    ./male0299.png
-    ./male0300.png
+    
     `;
     return data.split("\n")[index];
 }
 
-const frameCount = 300; //since we have 300 images
+const frameCount = 293; //since we have 293 images
 
 const images = [];
 const imageSeq={

@@ -97,6 +97,16 @@ border-radius: 25px;
 background-color: #1a1a1a;
 color: #fff;
 border: none;
+transition: background-color 0.3s ease; /* slight transition effect for color */
+}
+#nav > button:hover { /* visual effects on on button hover */
+    background-color: blue;
+    cursor: pointer; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+#nav > button:active { /* visual effects on on button click */
+    transform: scale(0.98); 
+    background-color: #391fff; 
 }
 #page>h3{
     position: absolute;

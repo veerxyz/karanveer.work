@@ -172,6 +172,10 @@ border: none;
     color: #6e6e6e;
     font-weight: 400;
 }
+#page2>#text3>p{
+    color:#1a1a1a;
+    font-weight: 400;
+}
 
 #page3>#text3{
     position: absolute;
